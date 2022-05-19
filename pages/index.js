@@ -7,7 +7,7 @@ export default function Mine() {
     <>
       <div>
         <Header />
-        {/* <Carousel /> */}
+        <Carousel />
       </div>
     </>
   );
